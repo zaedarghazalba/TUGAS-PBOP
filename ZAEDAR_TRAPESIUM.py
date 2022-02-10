@@ -12,3 +12,4 @@ def luas_trapesium () :
     print ('')
     print("============HASILNYA=============")
     print ('luas trapesiumnya adalah : ' , luas, 'cm2')
+luas_trapesium()

@@ -1,7 +1,5 @@
-# TUGAS-PBOP 
-NAMA : ZAEDAR GHAZALBA <br/>
-NPM : 5210411192 <br/>
-BERIKUT ADALAH TUGAS TUGAS PBOP <br/>
-TUGAS 1(BANGUN RUANG) :TABUNG.py DAN TRAPESIUM.py <br/>
-TUGAS 2 (LANJUTKAN DAN TAMBAHKAN SET) :DATABERKELOMPOK.py <br/>
+# TUGAS-PBOP
+nama :zaedar ghazalba
+npm  :5210411192
+berikut adalah tugas menghitung luas dan volume pada bangun ruang TABUNG DAN TRAPESIUM
 

@@ -1,5 +1,5 @@
 # TUGAS-PBOP
-nama :zaedar ghazalba
-npm  :5210411192
-berikut adalah tugas menghitung luas dan volume pada bangun ruang TABUNG DAN TRAPESIUM
+NAMA : ZAEDAR GHAZALBA <br/>
+NPM : 5210411192 <br/>
+BERIKUT ADALAH TUGAS TUGAS PBOP
 

@@ -1,6 +1,3 @@
-from re import M
-
-
 class MenuMinuman :
         def __init__(self,nama,deskripsi,harga) :
                 self.nama = nama

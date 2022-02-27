@@ -1,6 +1,3 @@
-from re import M
-
-
 class Mahasiswa :
         def __init__(self,nama,nim,prodi,thn_masuk,jml_sks,hobi):
                 self.nama = nama 

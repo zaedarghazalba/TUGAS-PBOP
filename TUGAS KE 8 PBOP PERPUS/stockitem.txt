@@ -1,0 +1,15 @@
+BUKU=Naruto Shippuden,35215,Masashi Kishimoto,1,100,35x10,Rp10000
+BUKU=Boruto,63836,Masashi Kishimoto dan Ukyo Kodachi,1,100,35x10,Rp10000
+BUKU=Harry Potter,67549,Jk Rowling,1,300,35x10,Rp10000
+BUKU=Kitab Primbon,53965,Ki Joko Bodo,1,250,35x10,Rp10000
+BUKU=Program Komputer,65393,Yusuf Priyandari,1,100,35x10,Rp10000
+BUKU=Kalkulus,64624,I Wayan Suletra,170,35x10,35x10,Rp10000
+BUKU=Security Analysis,674537,Benjamin,1,180,35x10,Rp10000
+BUKU=Habis Gelap Terbitlah Terang,27296,Raden Ajeng Kartini,1,170,35x10,Rp10000
+DVD=Naruto Shippuden,Masashi Kishimoto,Naruto dan Sasuke,300,Action,Rp10000
+DVD=Boruto,Masashi Kishimoto dan Ukyo Kodachi,Naruto dan Boruto,157,Action,Rp10000
+MAJALAH=Bobo,Gramedia,kreasi anak,pendidikan anak,10,Rp10000
+MAJALAH=Forbes,Forbes enterprise,information,Fashion and Selebrity,10,Rp10000
+BUKU=Siap Masuk PTN,57642,Ganesha Operation,1,30020x10,Rp10000
+DVD=Spider Man,Marvel,Peter Parker,1,Action,Rp10000
+DVD=Man Of Steel,DC Comics,Henry Cavill,1,Action,Rp10000

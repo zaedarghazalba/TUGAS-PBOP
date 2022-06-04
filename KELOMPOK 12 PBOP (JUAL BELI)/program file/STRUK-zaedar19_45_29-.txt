@@ -1,0 +1,23 @@
+
+            
+========== RESTO BAROKAH =========
+ 
+
+NAMA PEMESAN = nopal
+
+MENU PESANAN = 
+(1, 'Nasi goreng', 12000)(4, 'Ayam Geprek', 12000)(11, 'Es Teh', 2000)(13, 'Es Jeruk', 2000) 
+
+=================================
+
+TANGGAL     = 2022-05-16
+WAKTU       = 19:45:34.707823
+
+=================================
+   
+TOTAL BAYAR = 28000
+PEMBAYARAN  = 30000     
+KEMBALIAN   = 2000
+
+=================================
+
